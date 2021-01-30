@@ -1,0 +1,3 @@
+Compiling Boost with MPI
+
+http://kratos-wiki.cimne.upc.edu/index.php/How_to_compile_the_Boost_if_you_want_to_use_MPI
